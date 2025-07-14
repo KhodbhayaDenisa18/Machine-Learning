@@ -1,5 +1,4 @@
 # Machine-Learning
-# Machine Learning Projects
 
 Welcome to my Machine Learning repository!  This collection showcases a range of ML projects that demonstrate my understanding of core concepts, practical applications, and model development. Each project includes clean code, datasets (or links), visualizations, and explanations to make the work easy to follow.
 
